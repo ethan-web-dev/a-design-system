@@ -2,7 +2,7 @@
 
 *For readers: This is a mock repository for something non-component related so I don't suggest you use this.*
 
-A bucket of Pre-styled Headless React components. Uses tons of popular packages, copies tons of popular packages, and has totally seperate stuff too.
+A bucket of Pre-styled Headless React components. Uses tons of popular packages, copies tons of popular packages, and has totally separate stuff too.
 
 ## Overcoming the Anatomy of an Atomic Design System
 
