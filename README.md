@@ -27,3 +27,5 @@ To properly interpret this repo's structure, refer to the table below:
 | `../utils`           | A common set of tools for composing components                                     |
 
 It's important to know that we are implicitly aware of atoms, molecules, and organisms statuses as components. This system is flat for simplicity and nesting them in a parent folder named something like 'components' would detract from developer experience over time. 
+
+*why the `react-` prefix on hooks and providers? Consistency, it keeps atoms, molecules, and organisms grouped alphabetically.*
